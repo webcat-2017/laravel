@@ -1,0 +1,18 @@
+@import '~suggestags/css/amsify.suggestags.css';
+@import '~summernote/dist/summernote-lite.css';
+/* datatable */
+.table th, .table td{
+    padding: 4px;
+    vertical-align: middle;
+}
+.table thead th {
+    vertical-align: bottom;
+    border-bottom: 2px solid #dee2e6;
+    background-color: #c2c7d0;
+    color: #414142;
+}
+/* summernote full screen */
+.note-editable{
+    background-color: white;
+}
+
